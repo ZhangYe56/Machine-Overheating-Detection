@@ -60,7 +60,7 @@ No database, API keys, or physical temperature sensors are required for the curr
 ### 1. Clone the Repository
 
 ```bash
-git clone <YOUR_PUBLIC_REPOSITORY_URL>
+git clone https://github.com/ZhangYe56/Machine-Overheating-Detection.git
 cd Machine-Overheating-Detection
 ```
 
