@@ -16,32 +16,26 @@ The project follows an MVC-inspired architecture, separating temperature input, 
 
 ```text
 Machine-Overheating-Detection/
-├── pom.xml
-├── mvnw.cmd
-├── run.cmd
+│
+├── phase_2/
+│   ├── data/
+│   │   ├── alarms.csv
+│   │   └── readings.csv
+│   │
+│   └── phase_2/
+│       ├── data/
+│       ├── docs/
+│       ├── scripts/
+│       ├── src/
+│       ├── target/
+│       ├── README.md
+│       ├── START_HERE_中文.md
+│       ├── mvnw.cmd
+│       ├── pom.xml
+│       └── run.cmd
+│
 ├── .gitignore
-├── scripts/
-├── src/
-│   ├── main/
-│   │   └── java/
-│   │       └── edu/northeastern/overheat/
-│   │           ├── Main.java
-│   │           ├── model/
-│   │           ├── source/
-│   │           ├── service/
-│   │           ├── controller/
-│   │           ├── repository/
-│   │           └── view/
-│   └── test/
-│       └── java/
-│           └── edu/northeastern/overheat/
-│               ├── MonitoringServiceTest.java
-│               └── PipelineTest.java
-└── docs/
-    ├── architecture.md
-    ├── milestones.md
-    ├── test-plan.md
-    └── submission-checklist.md
+└── README.md
 ```
 
 ### Architecture Overview
