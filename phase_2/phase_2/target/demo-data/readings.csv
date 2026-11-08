@@ -1,0 +1,10 @@
+timestamp,celsius,status,message
+2026-11-05T19:39:28.112696600Z,25.0,NORMAL,"Valid reading | Basic threshold mode"
+2026-11-05T19:39:29.112696600Z,40.0,NORMAL,"Valid reading | Basic threshold mode"
+2026-11-05T19:39:30.112696600Z,59.0,NORMAL,"Valid reading | Basic threshold mode"
+2026-11-05T19:39:31.112696600Z,60.0,WARNING,"Valid reading | Basic threshold mode"
+2026-11-05T19:39:32.112696600Z,65.0,WARNING,"Valid reading | Basic threshold mode"
+2026-11-05T19:39:33.112696600Z,75.0,WARNING,"Valid reading | Basic threshold mode"
+2026-11-05T19:39:34.112696600Z,79.9,WARNING,"Valid reading | Basic threshold mode"
+2026-11-05T19:39:35.112696600Z,80.0,CRITICAL,"Valid reading | Basic threshold mode"
+2026-11-05T19:39:36.112696600Z,85.0,CRITICAL,"Valid reading | Basic threshold mode"

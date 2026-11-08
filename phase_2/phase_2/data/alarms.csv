@@ -1,0 +1,4 @@
+timestamp,previous_status,status,message
+2026-11-05T19:44:59.527281300Z,NORMAL,WARNING,"Valid reading | Basic threshold mode"
+2026-11-05T19:45:03.550797700Z,WARNING,CRITICAL,"Valid reading | Basic threshold mode"
+2026-11-05T19:45:05.555101600Z,CRITICAL,NORMAL,"Valid reading | Basic threshold mode"
